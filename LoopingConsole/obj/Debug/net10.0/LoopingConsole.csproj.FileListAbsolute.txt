@@ -1,0 +1,14 @@
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/bin/Debug/net10.0/LoopingConsole
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/bin/Debug/net10.0/LoopingConsole.deps.json
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/bin/Debug/net10.0/LoopingConsole.runtimeconfig.json
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/bin/Debug/net10.0/LoopingConsole.dll
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/bin/Debug/net10.0/LoopingConsole.pdb
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/LoopingConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/LoopingConsole.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/LoopingConsole.AssemblyInfo.cs
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/LoopingConsole.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/LoopingConsole.dll
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/refint/LoopingConsole.dll
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/LoopingConsole.pdb
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/LoopingConsole.genruntimeconfig.cache
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/ref/LoopingConsole.dll

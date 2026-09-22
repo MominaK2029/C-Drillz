@@ -1,0 +1,14 @@
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/bin/Debug/net10.0/DrilltwoConsole
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/bin/Debug/net10.0/DrilltwoConsole.deps.json
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/bin/Debug/net10.0/DrilltwoConsole.runtimeconfig.json
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/bin/Debug/net10.0/DrilltwoConsole.dll
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/bin/Debug/net10.0/DrilltwoConsole.pdb
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/obj/Debug/net10.0/DrilltwoConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/obj/Debug/net10.0/DrilltwoConsole.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/obj/Debug/net10.0/DrilltwoConsole.AssemblyInfo.cs
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/obj/Debug/net10.0/DrilltwoConsole.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/obj/Debug/net10.0/DrilltwoConsole.dll
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/obj/Debug/net10.0/refint/DrilltwoConsole.dll
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/obj/Debug/net10.0/DrilltwoConsole.pdb
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/obj/Debug/net10.0/DrilltwoConsole.genruntimeconfig.cache
+/Users/mominak/Desktop/C-Drillz/DrilltwoConsole/obj/Debug/net10.0/ref/DrilltwoConsole.dll
