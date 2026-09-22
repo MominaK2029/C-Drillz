@@ -9,6 +9,7 @@ class Program
 
         // TODO: Write a while loop that keeps asking for input 
         // as long as 'number' is less than or equal to 0.
+        
 
         Console.WriteLine($"Thank you! You entered: {number}");
     }
