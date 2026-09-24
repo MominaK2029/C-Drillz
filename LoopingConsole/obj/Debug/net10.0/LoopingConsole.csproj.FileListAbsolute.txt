@@ -12,3 +12,4 @@
 /Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/LoopingConsole.pdb
 /Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/LoopingConsole.genruntimeconfig.cache
 /Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/ref/LoopingConsole.dll
+/Users/mominak/Desktop/C-Drillz/LoopingConsole/obj/Debug/net10.0/LoopingConsole.sourcelink.json

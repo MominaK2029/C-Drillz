@@ -1,0 +1,15 @@
+/Users/mominak/Desktop/C-Drillz/Drillthree/bin/Debug/net10.0/Drillthree
+/Users/mominak/Desktop/C-Drillz/Drillthree/bin/Debug/net10.0/Drillthree.deps.json
+/Users/mominak/Desktop/C-Drillz/Drillthree/bin/Debug/net10.0/Drillthree.runtimeconfig.json
+/Users/mominak/Desktop/C-Drillz/Drillthree/bin/Debug/net10.0/Drillthree.dll
+/Users/mominak/Desktop/C-Drillz/Drillthree/bin/Debug/net10.0/Drillthree.pdb
+/Users/mominak/Desktop/C-Drillz/Drillthree/obj/Debug/net10.0/Drillthree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/C-Drillz/Drillthree/obj/Debug/net10.0/Drillthree.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/C-Drillz/Drillthree/obj/Debug/net10.0/Drillthree.AssemblyInfo.cs
+/Users/mominak/Desktop/C-Drillz/Drillthree/obj/Debug/net10.0/Drillthree.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/C-Drillz/Drillthree/obj/Debug/net10.0/Drillthree.sourcelink.json
+/Users/mominak/Desktop/C-Drillz/Drillthree/obj/Debug/net10.0/Drillthree.dll
+/Users/mominak/Desktop/C-Drillz/Drillthree/obj/Debug/net10.0/refint/Drillthree.dll
+/Users/mominak/Desktop/C-Drillz/Drillthree/obj/Debug/net10.0/Drillthree.pdb
+/Users/mominak/Desktop/C-Drillz/Drillthree/obj/Debug/net10.0/Drillthree.genruntimeconfig.cache
+/Users/mominak/Desktop/C-Drillz/Drillthree/obj/Debug/net10.0/ref/Drillthree.dll

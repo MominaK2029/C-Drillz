@@ -1,0 +1,15 @@
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/bin/Debug/net10.0/DrillFourConsole
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/bin/Debug/net10.0/DrillFourConsole.deps.json
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/bin/Debug/net10.0/DrillFourConsole.runtimeconfig.json
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/bin/Debug/net10.0/DrillFourConsole.dll
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/bin/Debug/net10.0/DrillFourConsole.pdb
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/obj/Debug/net10.0/DrillFourConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/obj/Debug/net10.0/DrillFourConsole.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/obj/Debug/net10.0/DrillFourConsole.AssemblyInfo.cs
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/obj/Debug/net10.0/DrillFourConsole.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/obj/Debug/net10.0/DrillFourConsole.sourcelink.json
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/obj/Debug/net10.0/DrillFourConsole.dll
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/obj/Debug/net10.0/refint/DrillFourConsole.dll
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/obj/Debug/net10.0/DrillFourConsole.pdb
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/obj/Debug/net10.0/DrillFourConsole.genruntimeconfig.cache
+/Users/mominak/Desktop/C-Drillz/DrillFourConsole/obj/Debug/net10.0/ref/DrillFourConsole.dll
