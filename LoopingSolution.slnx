@@ -1,5 +1,7 @@
 <Solution>
+  <Project Path="DrillFiveConsole/DrillFiveConsole.csproj" />
   <Project Path="DrillFourConsole/DrillFourConsole.csproj" />
+  <Project Path="DrillSixConsole/DrillSixConsole.csproj" />
   <Project Path="Drillthree/Drillthree.csproj" />
   <Project Path="DrilltwoConsole/DrilltwoConsole.csproj" />
   <Project Path="LoopingConsole/LoopingConsole.csproj" />
